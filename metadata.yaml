@@ -1,0 +1,40 @@
+_repo: Servian-Popular-Poetry_39028
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Karadžić, Vuk Stefanović
+    aliases:
+    - Karadzic, Vuk Stefanovic
+    - Караџић, Вук Стефановић
+    birthdate: 1787
+    deathdate: 1864
+    gutenberg_agent_id: '6293'
+    url: http://www.gutenberg.org/2009/agents/6293
+    wikipedia: http://en.wikipedia.org/wiki/Vuk_Stefanovi%C4%87_Karad%C5%BEi%C4%87
+  translator:
+    agent_name: Bowring, John
+    birthdate: 1792
+    deathdate: 1872
+    gutenberg_agent_id: '24984'
+    url: http://www.gutenberg.org/2009/agents/24984
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2012-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39028'
+  lccn: a24000036
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folk songs, Serbian'
+- !lcsh 'Serbian poetry -- History and criticism'
+- !lcsh 'Serbian poetry -- Translations into English'
+- !lcsh 'Ballads, Serbian'
+- !lcc 'PG'
+title: Servian Popular Poetry
+url: http://www.gutenberg.org/ebooks/39028
